@@ -1,0 +1,8 @@
+0:00:00.112,0:00:01.280
+Awesome.
+
+0:00:01.280,0:00:02.930
+I've got my folder structure ready and
+
+0:00:02.930,0:00:04.630
+I can't wait to start making my framework.

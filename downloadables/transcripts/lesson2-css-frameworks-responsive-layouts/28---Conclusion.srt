@@ -1,0 +1,35 @@
+0:00:00.560,0:00:01.880
+Awesome job.
+
+0:00:01.880,0:00:03.250
+You've uncovered a simple but
+
+0:00:03.250,0:00:07.770
+powerful technique to make your pages faster and easier.
+
+0:00:07.770,0:00:10.540
+And along the way, you've made a portfolio that you can share with everybody.
+
+0:00:11.560,0:00:16.010
+>> However, sometimes you need to use more complex styles and features.
+
+0:00:16.010,0:00:20.230
+Now, luckily you don't need to build these complex frameworks on your own.
+
+0:00:20.230,0:00:23.970
+There are many full featured frameworks available for use on the web.
+
+0:00:23.970,0:00:26.580
+You just have to choose one and learn how to use it.
+
+0:00:28.240,0:00:31.240
+>> Yeah, like Twitter's popular Bootstrap framework.
+
+0:00:31.240,0:00:32.020
+In the next lesson,
+
+0:00:32.020,0:00:35.700
+I'll help you take advantage of Bootstrap to make your pages professional.
+
+0:00:35.700,0:00:36.280
+Let's get started.

@@ -1,0 +1,29 @@
+0:00:00.430,0:00:01.470
+Awesome job.
+
+0:00:01.470,0:00:05.150
+You have made your first portfolio page, you have used your first professional
+
+0:00:05.150,0:00:10.110
+framework, and you are ready to keep going with your adventure in CSS and HTML.
+
+0:00:10.110,0:00:13.510
+>> And not to mention, you can show that portfolio to other people.
+
+0:00:13.510,0:00:14.720
+>> That's an awesome idea.
+
+0:00:14.720,0:00:17.310
+So, great job guys and we'll see you next time.
+
+0:00:17.310,0:00:18.720
+How do you want to send this off?
+
+0:00:18.720,0:00:20.138
+>> Hm, pound it?
+
+0:00:20.138,0:00:21.451
+>> Cool.
+
+0:00:21.451,0:00:24.243
+[SOUND]

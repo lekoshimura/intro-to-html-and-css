@@ -1,0 +1,89 @@
+0:00:00.360,0:00:04.510
+In this class you have built your own framework and also used an existing one.
+
+0:00:04.510,0:00:06.240
+But when you enter the workforce and
+
+0:00:06.240,0:00:09.260
+work on projects, how do you know when to use which?
+
+0:00:09.260,0:00:11.420
+It's a common problem that you're going to be faced with.
+
+0:00:11.420,0:00:13.900
+So, let's see if Jacques has any advice for us.
+
+0:00:17.190,0:00:20.477
+>> Hey so there's actually a bit of a trade off in between using
+
+0:00:20.477,0:00:25.170
+an established framework like Bootstrap or using your own framework.
+
+0:00:25.170,0:00:28.230
+And when you use a framework like Bootstrap,
+
+0:00:28.230,0:00:30.180
+you're going to get a lot of features.
+
+0:00:30.180,0:00:33.100
+I mean, as you can see, you know, as you've worked through so
+
+0:00:33.100,0:00:35.450
+far, you can build a tremendous amount with Bootstrap.
+
+0:00:36.570,0:00:40.060
+When you start to need to do things outside of that framework,
+
+0:00:40.060,0:00:43.140
+when you want to start doing things that Bootstrap doesn't,
+
+0:00:43.140,0:00:46.080
+support, you might look at making your own.
+
+0:00:46.080,0:00:48.890
+And when you make your own you get a lot of freedom.
+
+0:00:48.890,0:00:50.900
+You, you can do anything really.
+
+0:00:50.900,0:00:53.240
+But you're going to have to put in the work to do it.
+
+0:00:53.240,0:00:56.350
+So as you approach your projects try and
+
+0:00:56.350,0:00:58.880
+see what that, how that breaks down for you.
+
+0:00:58.880,0:01:02.970
+If you're going to need to do a lot of things that bootstrap doesn't support,
+
+0:01:02.970,0:01:05.860
+try looking at maybe rolling your own.
+
+0:01:05.860,0:01:09.120
+If you're going to be doing things that Bootstrap does or that another
+
+0:01:09.120,0:01:12.830
+framework does that you find that you really like, go for that, absolutely.
+
+0:01:12.830,0:01:17.700
+At Udacity we actually use a combination between Bootstrap and
+
+0:01:17.700,0:01:20.930
+some stuff that we've written ourselves, to work, along side of it.
+
+0:01:22.090,0:01:23.870
+And that's pretty much it.
+
+0:01:23.870,0:01:27.410
+Congratulations on, you know, getting through, the class so far.
+
+0:01:27.410,0:01:32.750
+And you know, it'd be fantastic to see you working on your own projects,
+
+0:01:32.750,0:01:36.495
+or in you know, at some point a professional office like this.
+
+0:01:36.495,0:01:43.284
+[NOISE]

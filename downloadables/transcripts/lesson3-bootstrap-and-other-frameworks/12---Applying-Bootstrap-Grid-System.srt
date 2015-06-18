@@ -1,0 +1,68 @@
+0:00:00.340,0:00:01.310
+So, this is what I've done.
+
+0:00:02.410,0:00:06.930
+You'll notice here that I had to add a new div with a container class.
+
+0:00:06.930,0:00:11.100
+This makes sure that the margins on the side of the screen look good.
+
+0:00:11.100,0:00:13.130
+Then, inside of the container we have our row.
+
+0:00:13.130,0:00:16.290
+And then finally the columns inside the row.
+
+0:00:16.290,0:00:21.780
+Scrolling down, we can see that each row has a total of 12 columns.
+
+0:00:21.780,0:00:26.260
+So for instance this row, with featured work, has column medium 12,
+
+0:00:26.260,0:00:30.660
+while the row below featured work contains two columns,
+
+0:00:30.660,0:00:33.330
+each one a class column medium 6.
+
+0:00:33.330,0:00:35.950
+Notice how we have multiple rows on the page.
+
+0:00:35.950,0:00:39.820
+For instance, we have a row here for featured work, and inside the row we have
+
+0:00:39.820,0:00:44.340
+column medium 12 because featured works takes up the entire width of the screen.
+
+0:00:44.340,0:00:47.990
+However, in the row that contains our two samples of work,
+
+0:00:47.990,0:00:51.300
+we have two columns, each of size six.
+
+0:00:51.300,0:00:52.500
+Six plus six is 12.
+
+0:00:52.500,0:00:55.380
+So, these two take up the entire row.
+
+0:00:55.380,0:00:56.900
+Coming back to our question,
+
+0:00:56.900,0:01:02.940
+we did need to add a container div outside of our rows, so that one is true.
+
+0:01:02.940,0:01:06.230
+We didn't need to add any new divs to organize columns in rows.
+
+0:01:06.230,0:01:07.950
+That was already done for us.
+
+0:01:07.950,0:01:12.450
+Inside of our rows, we did need to add new divs with columns to organize our
+
+0:01:12.450,0:01:16.340
+content, so this last one is also true.
+
+0:01:16.340,0:01:19.430
+If you want to see the full solution, check the link in the instructor's notes.

@@ -1,0 +1,14 @@
+0:00:00.430,0:00:01.950
+Looking at the first one,
+
+0:00:01.950,0:00:05.760
+to wrap this row of portfolio items, we'll use the class row.
+
+0:00:05.760,0:00:10.150
+Now for the second, to just wrap one portfolio item,
+
+0:00:10.150,0:00:13.620
+because it covers half of the screen, we'll use col-md-6,
+
+0:00:13.620,0:00:18.870
+where 6 is half of 12, and this featured work takes up half the screen.

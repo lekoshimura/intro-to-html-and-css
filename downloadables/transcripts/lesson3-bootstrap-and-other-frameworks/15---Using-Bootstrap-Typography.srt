@@ -1,0 +1,56 @@
+0:00:00.380,0:00:03.440
+As you can see, we're getting pretty close to our mock up,
+
+0:00:03.440,0:00:05.370
+but the page looks a little bland.
+
+0:00:05.370,0:00:07.710
+Of course, we don't have the right colors over here, and
+
+0:00:07.710,0:00:10.700
+it also looks like the text isn't formatted quite the same either.
+
+0:00:10.700,0:00:13.270
+Notice how in the mock up we're right aligned, but
+
+0:00:13.270,0:00:15.970
+over here on our site right now we are on the left.
+
+0:00:15.970,0:00:17.150
+Also notice how this name and
+
+0:00:17.150,0:00:21.380
+title are both in all caps, while ours are capitalized normally.
+
+0:00:21.380,0:00:24.670
+Check out Bootstrap's documentation to see if there are any classes that'll help
+
+0:00:24.670,0:00:28.700
+you easily fix things like alignment and capitalization.
+
+0:00:28.700,0:00:31.500
+I recommend checking out the Typography section.
+
+0:00:31.500,0:00:33.298
+This is a two-part question.
+
+0:00:33.298,0:00:34.340
+In the first part,
+
+0:00:34.340,0:00:40.570
+pick the classes that you need to right-align text and make text all uppercase.
+
+0:00:40.570,0:00:42.380
+For the second part of this question,
+
+0:00:42.380,0:00:45.730
+which of these elements need the classes that you've defined up here?
+
+0:00:45.730,0:00:50.310
+Div class equal row, div class equals column medium six,
+
+0:00:50.310,0:00:54.290
+or is it the h1 header and h3 header?
+
+0:00:54.290,0:00:55.000
+Check all that apply

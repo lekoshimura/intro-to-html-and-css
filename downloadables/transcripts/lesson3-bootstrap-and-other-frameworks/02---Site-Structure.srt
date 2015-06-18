@@ -1,0 +1,59 @@
+0:00:00.350,0:00:03.810
+This mockup is pretty similar to the portfolio mockup you worked on
+
+0:00:03.810,0:00:04.730
+in the previous lesson.
+
+0:00:04.730,0:00:06.570
+There are some differences, however.
+
+0:00:06.570,0:00:09.780
+For example, the layout of the work examples and
+
+0:00:09.780,0:00:13.110
+the color scheme, particularly that of the background.
+
+0:00:13.110,0:00:17.020
+You can see the colors and the hex codes on the left hand side of the screen.
+
+0:00:17.020,0:00:19.890
+But you should always start with looking at the design, and,
+
+0:00:19.890,0:00:22.030
+as always, consider the structure.
+
+0:00:22.030,0:00:23.310
+It should be pretty similar for
+
+0:00:23.310,0:00:26.470
+this mockup because it's so similar to the one you already did.
+
+0:00:26.470,0:00:29.530
+Despite the fact that you don't know anything about Bootstrap yet,
+
+0:00:29.530,0:00:31.720
+you can get started with a new webpage.
+
+0:00:31.720,0:00:35.120
+Now that you've got the design mockup, which steps can you complete now?
+
+0:00:35.120,0:00:37.890
+Can you create a folder structure for the project?
+
+0:00:37.890,0:00:40.280
+Can you create a DOM tree for the page?
+
+0:00:40.280,0:00:43.340
+Can you write HTML that defines the DOM?
+
+0:00:43.340,0:00:46.150
+Can you assign class names to HTML elements?
+
+0:00:46.150,0:00:47.670
+Can you write CSS?
+
+0:00:47.670,0:00:49.580
+And can you the test the page?
+
+0:00:49.580,0:00:50.330
+Check all that apply.

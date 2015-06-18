@@ -1,0 +1,47 @@
+0:00:00.210,0:00:02.616
+The easiest way to find documentation is to search for it.
+
+0:00:07.723,0:00:11.575
+Looking through the CSS for Bootstrap, we can find documentation around
+
+0:00:11.575,0:00:15.170
+containers, the grid system, which you'll be using later.
+
+0:00:15.170,0:00:17.880
+Different media queries that Bootstrap uses to ensure that
+
+0:00:17.880,0:00:20.850
+your site looks good on whatever size screen it's opened on.
+
+0:00:20.850,0:00:23.960
+And it even gives you different options for types of columns.
+
+0:00:23.960,0:00:26.600
+Let's take a look at these pre-defined classes.
+
+0:00:26.600,0:00:30.520
+I want you to check out the documentation for the predefined classes.
+
+0:00:30.520,0:00:33.380
+When you're done, you should be able to answer the following questions, and
+
+0:00:33.380,0:00:36.040
+apply the correct classes to your HTML.
+
+0:00:36.040,0:00:40.640
+Which classes should you use to wrap the first row of portfolio items?
+
+0:00:40.640,0:00:42.380
+The first row would be like this,
+
+0:00:42.380,0:00:45.930
+following the blue box around appify and sunflower.
+
+0:00:45.930,0:00:49.660
+And, which class would you use to wrap one featured portfolio item?
+
+0:00:49.660,0:00:51.610
+Like simply just Appify.
+
+0:00:51.610,0:00:52.980
+Type your answers in here.

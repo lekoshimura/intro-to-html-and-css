@@ -1,0 +1,47 @@
+0:00:00.130,0:00:03.900
+Starting with the top red box, it looks like it takes up the entire row and
+
+0:00:03.900,0:00:05.630
+contains a few elements inside of it.
+
+0:00:05.630,0:00:07.010
+So, this one's going to be row.
+
+0:00:07.010,0:00:08.430
+Let's look at the top blue box.
+
+0:00:08.430,0:00:09.800
+It contains a name and
+
+0:00:09.800,0:00:12.940
+title, and it looks like it's taking up about half of this whole row.
+
+0:00:12.940,0:00:15.150
+As a result, I'm going to put column 6.
+
+0:00:15.150,0:00:17.670
+However, this box could be larger than 6 wide.
+
+0:00:17.670,0:00:21.140
+Because the text is right aligned, if this box were over here, or
+
+0:00:21.140,0:00:23.620
+if it expanded over here, it'd still look the same.
+
+0:00:23.620,0:00:25.950
+So your answer could be larger than column 6, but
+
+0:00:25.950,0:00:27.450
+it's definitely no larger than column 10.
+
+0:00:27.450,0:00:30.340
+For the bottom red box, it's taking up the entire row and
+
+0:00:30.340,0:00:33.050
+it contains some columns inside of it, so, once again we have a row.
+
+0:00:33.050,0:00:36.950
+And then for the bottom blue box here, it's taking up a third of this row.
+
+0:00:36.950,0:00:40.205
+A third of twelve is four, so this is going to be column 4.

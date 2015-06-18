@@ -1,0 +1,38 @@
+0:00:00.280,0:00:02.520
+So now our page has the correct layout.
+
+0:00:02.520,0:00:06.280
+But we need to make sure that our page looks good on all sized screen,
+
+0:00:06.280,0:00:08.100
+not just this big one.
+
+0:00:08.100,0:00:09.170
+So let's go ahead and resize it.
+
+0:00:09.170,0:00:11.060
+You can see it gets smaller.
+
+0:00:11.060,0:00:13.800
+And as we get closer and closer to the mobile size,
+
+0:00:13.800,0:00:17.070
+we can see that this image is being pushed off the side of the screen.
+
+0:00:17.070,0:00:18.670
+I'll go ahead and make it big again.
+
+0:00:18.670,0:00:21.410
+It's important to make sure that our websites look good on mobile too.
+
+0:00:21.410,0:00:24.030
+So, we need to make some changes using Bootstrap.
+
+0:00:24.030,0:00:27.350
+Look through the Bootstrap documentation to answer this question.
+
+0:00:27.350,0:00:31.580
+Which class should you apply to images to make them resize automatically?
+
+0:00:31.580,0:00:32.350
+Type your answer in here

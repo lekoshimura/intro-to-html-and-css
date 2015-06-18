@@ -1,0 +1,116 @@
+0:00:00.180,0:00:03.050
+So, our portfolio page is looking pretty good.
+
+0:00:03.050,0:00:06.320
+Especially now that we've got these adorable little kittens here
+
+0:00:06.320,0:00:07.560
+that just make me want to sneeze.
+
+0:00:07.560,0:00:10.000
+I'm only sneezing because I'm allergic to cats.
+
+0:00:10.000,0:00:11.540
+I mean I think they're really cute,
+
+0:00:11.540,0:00:14.360
+but I can't get too close to them without a Zyrtec.
+
+0:00:14.360,0:00:16.280
+Anyways, so we're in our portfolio and
+
+0:00:16.280,0:00:20.190
+it would be awesome if we could say a little bit more about,
+
+0:00:20.190,0:00:24.670
+you know, what we did here, and what we did here on our app and framework.
+
+0:00:24.670,0:00:25.990
+But there's not a whole lot of space for
+
+0:00:25.990,0:00:28.740
+it, however there is a trick we can use.
+
+0:00:28.740,0:00:30.500
+We can click on it and
+
+0:00:30.500,0:00:34.370
+bring up a modal which actually has more information about the project.
+
+0:00:34.370,0:00:37.450
+This modal is a Bootstrap feature that uses JavaScript but
+
+0:00:37.450,0:00:40.730
+don't worry, in order to implement it you don't need to know any JavaScript.
+
+0:00:40.730,0:00:44.550
+For this assignment I want you to implement a modal just like the one
+
+0:00:44.550,0:00:45.990
+we have here.
+
+0:00:45.990,0:00:49.740
+Here we are inside Bootstrap's documentation for modals.
+
+0:00:49.740,0:00:51.080
+This is in the JavaScript section.
+
+0:00:51.080,0:00:53.530
+I'm going to scroll down to an example.
+
+0:00:53.530,0:00:57.070
+All right, we've got our simple example just like the one we saw.
+
+0:00:57.070,0:01:00.150
+This is the HTML that was used to create the modal.
+
+0:01:00.150,0:01:02.860
+Here we have the trigger that opens up the modal.
+
+0:01:02.860,0:01:05.507
+Notice that it's got two attributes we haven't seen before,
+
+0:01:05.507,0:01:09.120
+data-toggle and data-target.
+
+0:01:09.120,0:01:12.430
+In this example, these attributes are attached to a button.
+
+0:01:12.430,0:01:16.210
+But, in our case, we'll be attaching them to the images in our portfolio.
+
+0:01:16.210,0:01:17.730
+Inside the instructor notes,
+
+0:01:17.730,0:01:20.860
+you'll find some HTML that looks a lot like what you see here.
+
+0:01:20.860,0:01:24.110
+We want you to copy the HTML you find in your instructor's notes to your own
+
+0:01:24.110,0:01:29.160
+page, and it should be inside the body of your page, not inside any divs.
+
+0:01:29.160,0:01:34.240
+Notice here that this HTML has an id which in this case is myModal.
+
+0:01:34.240,0:01:36.060
+You can add as many modals as you want.
+
+0:01:36.060,0:01:38.970
+Just make sure each one has its own unique ID.
+
+0:01:38.970,0:01:43.240
+Notice how this ID matches up with the data target above.
+
+0:01:43.240,0:01:47.890
+Modals here work because of the bootstrap.min.js file that you
+
+0:01:47.890,0:01:49.690
+should already have in your project.
+
+0:01:49.690,0:01:52.120
+Go ahead and see if you can add a modal to your page.
+
+0:01:52.120,0:01:55.290
+Once you've finished adding your modal, click this box to continue.

@@ -1,0 +1,47 @@
+0:00:00.210,0:00:03.060
+Once you've figured out the structure of your HTML,
+
+0:00:03.060,0:00:06.080
+you can start to think about things like semantic tags.
+
+0:00:06.080,0:00:08.880
+Or tags that not only make sense to the browser, but
+
+0:00:08.880,0:00:11.040
+also make sense to any humans looking at them.
+
+0:00:11.040,0:00:14.308
+These include things like Header 1 through 4, indicated by H1,
+
+0:00:14.308,0:00:17.870
+H2, H3, H4, images, and forms.
+
+0:00:17.870,0:00:20.850
+For instance, Header one tags are more prominent and
+
+0:00:20.850,0:00:24.670
+organize larger pieces of information than say H4 tags,
+
+0:00:24.670,0:00:28.020
+which are going to organizing more specific pieces of information.
+
+0:00:28.020,0:00:30.970
+When you're working on a page it's important to ask if any text
+
+0:00:30.970,0:00:31.990
+needs to stand out.
+
+0:00:31.990,0:00:36.090
+And then if it does, use some semantic tags to style it appropriately.
+
+0:00:36.090,0:00:39.840
+Which semantic tags would you use to style the red box containing the name at
+
+0:00:39.840,0:00:42.980
+the top, the blue box containing featured work, and
+
+0:00:42.980,0:00:46.140
+the three green boxes containing the titles of our projects?
+
+0:00:46.140,0:00:47.010
+Type your answers in here.

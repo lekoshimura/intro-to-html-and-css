@@ -1,0 +1,41 @@
+0:00:00.200,0:00:04.070
+There are dozens of frame works besides Bootstrap available,
+
+0:00:04.070,0:00:06.320
+Foundation 4 by Zerb and
+
+0:00:06.320,0:00:11.540
+Yaml 4 by Derk Jesse, provide huge sets of features comparable to Bootstrap.
+
+0:00:11.540,0:00:16.344
+You'll find everything from responsive grid systems and nice looking buttons, to
+
+0:00:16.344,0:00:21.060
+Java script modules for interactive elements like drop down menus and carousels.
+
+0:00:21.060,0:00:26.950
+If you need simplicity other frameworks like 960 Grid, Susy and Frameless
+
+0:00:26.950,0:00:30.610
+provide their own grid systems without the overhead of additional features.
+
+0:00:30.610,0:00:33.930
+Bootstrap is currently one of the most popular frameworks and
+
+0:00:33.930,0:00:35.460
+actually that's why we're using it.
+
+0:00:35.460,0:00:38.870
+It does, however, include some advanced functionality you might never need.
+
+0:00:38.870,0:00:43.010
+The good news is that because it's so robust, after you've mastered Bootstrap
+
+0:00:43.010,0:00:46.660
+you'll be able to pick up other, simpler frameworks with very little effort.
+
+0:00:46.660,0:00:47.980
+To learn more about Bootstrap and
+
+0:00:47.980,0:00:50.630
+other frameworks, check out the links in the instructor's notes.

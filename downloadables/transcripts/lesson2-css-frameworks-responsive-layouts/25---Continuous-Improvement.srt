@@ -1,0 +1,113 @@
+0:00:00.240,0:00:01.330
+Once the layout is mostly done,
+
+0:00:01.330,0:00:04.678
+you can start dealing with all the fun visual stuff like the background colors,
+
+0:00:04.678,0:00:08.460
+the margins, the padding, the borders, the fonts, etc.
+
+0:00:08.460,0:00:11.620
+Colors and margins are pretty easy to test with Dev tools as we've seen so
+
+0:00:11.620,0:00:13.280
+far, but what about fonts?
+
+0:00:13.280,0:00:16.230
+How do you find a font that looks close enough to the one that was
+
+0:00:16.230,0:00:17.720
+provided in the design?
+
+0:00:17.720,0:00:21.900
+There's really no super easy way to do that apart from asking the designer to
+
+0:00:21.900,0:00:25.360
+kindly use the free web fonts and then tell you which one they used.
+
+0:00:25.360,0:00:28.675
+That might not work however, so you might be left with the task of going
+
+0:00:28.675,0:00:32.710
+online to find the closest web font that matches what you had in the design and
+
+0:00:32.710,0:00:36.640
+one of the best places to get fonts is with Google at Google.com/fonts.
+
+0:00:36.640,0:00:40.190
+It's fun to go on here and just browse around to see what you can find.
+
+0:00:40.190,0:00:42.100
+You can look around, you can filter, and
+
+0:00:42.100,0:00:45.290
+then find a font that looks closest to what you're given in the design.
+
+0:00:45.290,0:00:46.260
+All right, I like this one.
+
+0:00:46.260,0:00:48.600
+It looks kind of close to my handwriting, but not really.
+
+0:00:48.600,0:00:52.910
+Anyways, let's click on this and we can go ahead and add it to our website.
+
+0:00:52.910,0:00:55.780
+We'll scroll down and then all we have to do is add this code.
+
+0:00:55.780,0:00:56.920
+So I'll click on it and
+
+0:00:56.920,0:01:00.990
+copy it and then we'll come up here to the head of our document and paste it in.
+
+0:01:00.990,0:01:04.819
+So the link that we just copied from Google tells browsers to download the font,
+
+0:01:04.819,0:01:08.840
+but we still need to go into CSS and make sure the font is actually being used.
+
+0:01:08.840,0:01:11.770
+Back in the Google Fonts page, I'm just going to go ahead and
+
+0:01:11.770,0:01:15.940
+copy this code right here, and I'll past this into our CSS file.
+
+0:01:15.940,0:01:18.750
+In this case, I'm applying the font family Indie Flower,
+
+0:01:18.750,0:01:21.840
+which we are going to download to everything on the page,
+
+0:01:21.840,0:01:24.270
+and we know it's everything because of this asterisk.
+
+0:01:24.270,0:01:27.180
+So I'll save the CSS and let's reload the page.
+
+0:01:27.180,0:01:30.760
+When I hit refresh, we should see this font change and there we go.
+
+0:01:30.760,0:01:33.000
+Our new font has now been applied to the page.
+
+0:01:33.000,0:01:35.620
+Scrolling down, we should see it on everything.
+
+0:01:35.620,0:01:38.250
+There we go, our featured work, appify, appify, and
+
+0:01:38.250,0:01:40.600
+appify all have the cool new font now.
+
+0:01:40.600,0:01:41.810
+Play around with Google fonts for
+
+0:01:41.810,0:01:44.120
+a bit and then see if you can answer this question.
+
+0:01:44.120,0:01:48.120
+Which of these fonts is closest to the font that we see in the mock up?
+
+0:01:48.120,0:01:51.780
+Is it Play, Rambla, Lato, or Orbitron?

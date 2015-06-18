@@ -1,0 +1,38 @@
+0:00:00.280,0:00:01.790
+So, this is what I've come up with.
+
+0:00:01.790,0:00:05.640
+I have the modal's HTML, inside the body of our page.
+
+0:00:05.640,0:00:08.630
+It has its own unique id, which in this case is project1.
+
+0:00:08.630,0:00:13.000
+It's got its own label, which is Favorite App Page.
+
+0:00:13.000,0:00:18.020
+And then inside modal-body, we have some custom content, including an image and
+
+0:00:18.020,0:00:18.870
+a big block of text.
+
+0:00:19.970,0:00:24.630
+At the very bottom, we've got a button here that will Close our modal.
+
+0:00:24.630,0:00:25.560
+Scrolling up.
+
+0:00:25.560,0:00:30.010
+We see that for the image, for the same FAVORITE APP projects,
+
+0:00:30.010,0:00:34.000
+we've got a new attribute called data-toggle and it's equal to modal.
+
+0:00:34.000,0:00:35.980
+And the target is of course project1.
+
+0:00:35.980,0:00:39.420
+Put it all together and we get to come to our page.
+
+0:00:39.420,0:00:41.650
+Click on the kitty and get a better description.

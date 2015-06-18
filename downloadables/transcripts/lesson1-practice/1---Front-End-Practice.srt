@@ -1,0 +1,74 @@
+0:00:00.750,0:00:04.550
+You now have a pretty good idea of how to start working on a new project.
+
+0:00:04.550,0:00:09.010
+But what's the best way to learn new skills aside from just practice,
+
+0:00:09.010,0:00:10.100
+practice, practice?
+
+0:00:10.100,0:00:12.700
+I think Jacques has some ideas but
+
+0:00:12.700,0:00:15.650
+again he went back to work so we need to bug him again.
+
+0:00:19.430,0:00:25.030
+>> Heya, so I actually wanted to just mention the awesomeness that
+
+0:00:25.030,0:00:28.820
+is learning HTML and CSS on the web when you can see it every day.
+
+0:00:28.820,0:00:32.174
+So if you like something in a webpage, and you want to see how they did it
+
+0:00:32.174,0:00:37.510
+[COUGH] you can pop open DevTools and actually see how we cut it up.
+
+0:00:37.510,0:00:39.460
+So if you like something on the audacity website, and
+
+0:00:39.460,0:00:40.850
+you want to use that motif, or
+
+0:00:40.850,0:00:44.000
+that design, those type of styles, you can see what we did.
+
+0:00:44.000,0:00:45.620
+And that's really great, and
+
+0:00:45.620,0:00:48.280
+not something you can do in a lot of other environments.
+
+0:00:48.280,0:00:52.060
+So in terms of learning, it's a great place to start.
+
+0:00:52.060,0:00:53.580
+Because, I mean, that's how I started.
+
+0:00:53.580,0:00:56.250
+I was looking at how other people did,
+
+0:00:56.250,0:00:58.560
+how other people coded up their solutions.
+
+0:00:58.560,0:01:03.270
+How they managed to make something look a certain way and
+
+0:01:03.270,0:01:04.510
+being able to open it up.
+
+0:01:04.510,0:01:06.770
+And our DevTools are much better now.
+
+0:01:06.770,0:01:12.530
+And they will really allow you to dive into how somebody put something together.
+
+0:01:12.530,0:01:15.890
+So go and check out a website that you find interesting.
+
+0:01:15.890,0:01:19.550
+You'll, you'll be amazed that, sort of what people have done and
+
+0:01:19.550,0:01:21.020
+you can learn a tremendous amount from it.

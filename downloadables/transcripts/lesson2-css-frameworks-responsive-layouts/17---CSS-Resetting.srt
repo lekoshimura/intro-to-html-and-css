@@ -1,0 +1,47 @@
+0:00:00.130,0:00:03.350
+If you've been on the internet for a few years you've probably noticed that
+
+0:00:03.350,0:00:07.250
+some websites look or act differently on different browsers.
+
+0:00:07.250,0:00:10.910
+And trying to open a modern website on an older browser sometimes yields
+
+0:00:10.910,0:00:12.330
+a buggy experience.
+
+0:00:12.330,0:00:15.430
+Obviously as web developers we want to ensure that our users have
+
+0:00:15.430,0:00:20.050
+the same awesome experience regardless of their browsers or operating systems.
+
+0:00:20.050,0:00:22.300
+This has been a problem since the beginning of the web and
+
+0:00:22.300,0:00:25.760
+there are solutions available to manage cross-browser compatibility.
+
+0:00:25.760,0:00:26.470
+If you search for
+
+0:00:26.470,0:00:32.119
+CSS resetting or CSS normalize, you'll run into this style sheet, normalize.css.
+
+0:00:32.119,0:00:33.730
+Let's take a look at it.
+
+0:00:33.730,0:00:36.780
+This will help ensure that your CSS styles are interpreted the same
+
+0:00:36.780,0:00:38.040
+across all browsers.
+
+0:00:38.040,0:00:42.210
+To take advantage of CSS resetting, simply link to the CSS style you see here,
+
+0:00:42.210,0:00:43.100
+like so, and
+
+0:00:43.100,0:00:46.010
+you can be confident that your styles will work the same across all browsers.

@@ -1,0 +1,86 @@
+0:00:00.150,0:00:01.790
+Okay, so I've got the website open.
+
+0:00:01.790,0:00:02.400
+Let's go ahead and
+
+0:00:02.400,0:00:04.950
+try it out in dev tools, I'll open it up by pressing Cmd+Option+I and
+
+0:00:04.950,0:00:08.700
+let's go ahead and just select one of these rows.
+
+0:00:08.700,0:00:11.150
+Sure, row and here we go.
+
+0:00:11.150,0:00:13.570
+Now I'm going to answer this a little bit out of order.
+
+0:00:13.570,0:00:15.230
+We should see changes immediately.
+
+0:00:15.230,0:00:16.980
+As soon as we start typing in here.
+
+0:00:16.980,0:00:19.960
+So display and the first one was block.
+
+0:00:19.960,0:00:23.620
+Press Enter and it looks like nothing happened up here.
+
+0:00:23.620,0:00:25.950
+Okay, so I'm not feeling too good about block.
+
+0:00:25.950,0:00:26.800
+Let's try float.
+
+0:00:26.800,0:00:29.100
+We'll just go ahead and jump to that.
+
+0:00:29.100,0:00:32.590
+Go to F-L-O-A-T and press Enter.
+
+0:00:32.590,0:00:35.980
+Oh, okay so that's being invalidated by something.
+
+0:00:35.980,0:00:37.650
+Okay. So that's not working.
+
+0:00:37.650,0:00:40.940
+Let's try instead, display flex.
+
+0:00:40.940,0:00:41.600
+Hey, hey.
+
+0:00:41.600,0:00:43.070
+And look at that.
+
+0:00:43.070,0:00:45.230
+As soon as we do it, our columns look right.
+
+0:00:45.230,0:00:46.720
+2 and 10 are lined up.
+
+0:00:46.720,0:00:47.940
+3 and 9 are lined up.
+
+0:00:47.940,0:00:48.930
+4, 4, 4.
+
+0:00:48.930,0:00:52.110
+They're acting like we expected them to.
+
+0:00:52.110,0:00:55.600
+And of course, we can also add flex wrap, wrap.
+
+0:00:55.600,0:00:57.400
+And it still looks good.
+
+0:00:57.400,0:00:58.720
+To learn more about flex and
+
+0:00:58.720,0:01:01.290
+the way it works, check out the link in the instructor notes.
+
+0:01:01.290,0:01:05.360
+This means that display: flex; flex-wrap: wrap, is the correct answer.
