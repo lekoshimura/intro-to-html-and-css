@@ -1,0 +1,14 @@
+0:00:00.694,0:00:02.270
+>> Congratulations!
+
+0:00:03.390,0:00:06.900
+>> In the next lesson, you'll be learning how to make your life easier
+
+0:00:06.900,0:00:10.360
+by making a grid and box structure using CSS.
+
+0:00:10.360,0:00:12.630
+Along the way, you'll learn some responsive design, I guess.
+
+0:00:14.010,0:00:14.820
+Are you ready to get started?
