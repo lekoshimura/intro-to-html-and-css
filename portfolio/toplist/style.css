@@ -8,13 +8,19 @@
 	box-sizing: border-box;
 }
 .image {
-	max-width: 20%;
+	max-width: 400px;
+	margin-right: 24px
 }
 .description {
 	color: red;
-	max-width: 80%;
+	max-width: 70%;
 }
 .app {
 	display: -webkit-flex;
 	display: flex;
+}
+.title {
+	color: white;
+	background-color: #33bebe;
+	padding: 25px 4px 4px 8px;
 }
