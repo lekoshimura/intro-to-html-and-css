@@ -1,0 +1,19 @@
+(Normalizar CSS)[normalize-css.googlecode.com/svn/trunk/normalize.css]
+
+overflow: auto
+
+display: flex
+
+@media only screen and (max-width: 300px)
+
+placehold.it
+http://code.tutsplus.com/articles/the-top-8-placeholder-services-for-web-designers--net-19485
+
+google.com/fonts
+
+Apresentação de flexbox
+https://www.udacity.com/course/viewer#!/c-ud304/l-2617868617/m-2771378571
+
+Apresentação de frameworks CSS
+https://www.udacity.com/course/viewer#!/c-ud304/l-2794148535/m-2730818588
+
