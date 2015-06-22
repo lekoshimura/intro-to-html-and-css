@@ -21,16 +21,13 @@
 ```
 
 # Links 
-* [Validador html](https://validator.w3.org/#validate_by_input)
+* [Validador HTML](https://validator.w3.org/#validate_by_input)
 * [Validador CSS](http://jigsaw.w3.org/css-validator/#validate_by_input)
 * [Placehold.it](http://placehold.it)
 * [Google Fonts](http://google.com/fonts)
   - Fonte usada no curso: Lato
 * [Instructions on how to use Developer Tools Shortcuts](https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools)
 * [Normalizar CSS](http://normalize-css.googlecode.com/svn/trunk/normalize.css) 
-```html
-http://normalize-css.googlecode.com/svn/trunk/normalize.css
-```
 
 # Bootstrap
 * 12 colunas
