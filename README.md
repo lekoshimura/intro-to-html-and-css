@@ -1,5 +1,10 @@
-# Intro to HTML and CSS 
-* https://www.udacity.com/course/intro-to-html-and-css--ud304
+Notas do Curso Intro to HTML and CSS
+====================================
+
+[Udacity - Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+* Cameron Pittman
+* Jessica Uelmen
+* Gundega Dekena
 
 # Aulas Interessantes
 * [Flexbox](https://www.udacity.com/course/viewer#!/c-ud304/l-2617868617/m-2771378571)
